@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
-
+import pandas as pd
+import numpy as np
 from crawler51job.items import Crawler51JobItem
 
 
